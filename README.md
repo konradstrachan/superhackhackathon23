@@ -8,9 +8,13 @@ A bot that uses Account Abstraction to provide a true Defi experience buying and
 
 This project was build for the ETH Global SuperHack virtual Hackathon.
 
-![image](https://github.com/superhack-eu091/TiGr-Bot/assets/21056525/55d354fa-fb92-4519-b169-c98c63f70bd6)
-
 ## Overview
+
+![image](https://github.com/konradstrachan/superhackhackathon23/assets/21056525/f13bdc26-8cef-4595-a50f-19463755c46e)
+
+![image](https://github.com/konradstrachan/superhackhackathon23/assets/21056525/471dcea7-66d0-49b2-adbd-225756fe1a99)
+
+![image](https://github.com/konradstrachan/superhackhackathon23/assets/21056525/0e3414fd-65c2-4f16-931a-032daee48dce)
 
 ![tg without the trust](https://github.com/superhack-eu091/TiGr-Bot/assets/21056525/4b6022ac-5d0d-45ac-a00e-3242b2e84ce4)
 
